@@ -8,3 +8,5 @@ F:\github\openCV-hib\simulate_pico_rcv_finger_LED strips and LED diodes_3.py
 run with micropython
 use Thonny receive script (saved as main.py)
  must terminate Thonny and reboot pico by unplugging and reconnecting pico usb port
+
+use 5 ws2812 led strips and 3 discrete led diodes. see "rcv_finger_LED strips and LED diodes_3.py" for gpio pin connections
