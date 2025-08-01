@@ -1,0 +1,10 @@
+notes:
+F:\github\openCV-hib\multi_finger_7_5_to_pico.py 
+Run with python (pycharm preferred). must use python 3.12 since newer versions will not accept mediapipe
+use webcamera to see user’s hand
+
+
+F:\github\openCV-hib\simulate_pico_rcv_finger_LED strips and LED diodes_3.py
+run with micropython
+use Thonny receive script (saved as main.py)
+ must terminate Thonny and reboot pico by unplugging and reconnecting pico usb port
